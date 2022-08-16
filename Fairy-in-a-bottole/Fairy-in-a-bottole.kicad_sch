@@ -723,6 +723,11 @@
     (uuid f9efe665-230d-4ea2-9454-03c83d5404ae)
   )
 
+  (text "https://i.stack.imgur.com/U74Ho.jpg" (at 128.27 143.51 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ed615fad-3b15-41ce-9add-6019f1c0f3e5)
+  )
+
   (label "Reset" (at 146.05 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4a22970b-60bf-48bf-99b7-35a4c2834767)
